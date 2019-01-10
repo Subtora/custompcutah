@@ -1,0 +1,32 @@
+*{
+box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.content{
+  background-color: pink;
+  width: fit-content;
+  margin: 0 auto;
+}
+/************ General ************/
+.absolute{
+  position: absolute;
+}
+/************ Header ************/
+.header .logo{
+  margin: 12px;
+  left: 0;
+  width: 10em;
+}
+.header .menu{
+  margin: 12px;
+  right: 0;
+  width: 3em;
+}
+/************ Center ************/
+.center{
+
+}
+/************ Footer ************/
